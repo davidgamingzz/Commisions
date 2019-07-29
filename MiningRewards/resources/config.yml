@@ -1,0 +1,14 @@
+---
+100:
+  command: "give {player} diamond 16"
+  message: "&bCongrats on reaching 100 blocks!"
+500:
+  command: "give {player} diamond 32"
+  message: "&bCongrats on reaching 500 blocks!"
+1000:
+  command: "give {player} diamond 48"
+  message: "&bCongrats on reaching 1000 blocks!"
+2500:
+  command: "give {player} diamond 64"
+  message: "&bCongrats on reaching 2500 blocks!"
+...
