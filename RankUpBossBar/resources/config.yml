@@ -1,0 +1,4 @@
+---
+rankUpMessage: "&e${money} &8| &a${rankUpPrice} &8| &d{progressPercentage} &8| &b{currentRank} -> {nextRank}"
+maxRankMessage: "&cMax Rank"
+...

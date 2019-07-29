@@ -1,0 +1,8 @@
+name: RankUpBossBar
+main: david\rubb\RankUpBossBar
+load: POSTWORLD
+version: "1.0"
+api: 3.0.0
+authors:
+  - David
+description: Show rank up status
